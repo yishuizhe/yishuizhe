@@ -10,17 +10,17 @@
  
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Yishuizhe&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=yishuizhe&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=Yishuizhe&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=yishuizhe&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Yishuizhe&theme=github-compact&hide_border=true&area=true">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yishuizhe&theme=github-compact&hide_border=true&area=true">
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yishuizhe&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yishuizhe&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yishuizhe&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
@@ -33,7 +33,7 @@
 <a href="https://space.bilibili.com/423453709?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/哔哩哔哩-神奇易水哲-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-2422961214-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=Yishuizhe&abbreviated=true&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=yishuizhe&abbreviated=true&color=yellow" />
 </p>
  
 <!-- https://github.com/kyechan99/capsule-render -->
